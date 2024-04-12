@@ -1,9 +1,11 @@
 
 # Rapport
 
-**Skriv din rapport här!**
-
-_Du kan ta bort all text som finns sedan tidigare_.
+Först skapade jagen Basic View Activity, raderade alla onödiga filer såsom fragments.
+Detta fungerade inte. Därefter provade jag att skapa en Empty activity, då skapades en Kotlin-fil
+istället för en Java-fil och det var inte möjligt att få det att fungera. Istället kopierade jag
+MainActivity och activity_main.xml och ändrade namn på filerna och ändrade i koden där det behövdes
+för att det skulle gälla för MainActivity2.
 
 ## Följande grundsyn gäller dugga-svar:
 
